@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Spring Framework,Mandatory,Software Engineering,VERDADERO,
+Spring Framework,Mandatory,Software Engineering,FALSO,
 NodeJS,Recommended,Software Engineering,VERDADERO,
 Docker,Mandatory,Software Engineering,VERDADERO,
 Kubernetes (Openshif),Mandatory,Software Engineering,VERDADERO,
