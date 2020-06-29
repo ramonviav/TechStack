@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description
-Spring Framework,Mandatory,Software Engineering,TRUE,
+Spring Framework,Mandatory,Software Engineering,TRUE,Spring makes programming Java quicker, easier, and safer for everybody. Spring’s focus on speed, simplicity, and productivity has made it the world's most popular Java framework.
 NodeJS,Recommended,Software Engineering,FALSE,
 Docker,Mandatory,Software Engineering,VERDADERO,
 Kubernetes (Openshif),Mandatory,Software Engineering,FALSO,
