@@ -1,6 +1,6 @@
 name,ring,quadrant,isNew,description
 Spring Framework,Mandatory,Software Engineering,TRUE,
-NodeJS,Recommended,Software Engineering,VERDADERO,
+NodeJS,Recommended,Software Engineering,FALSE,
 Docker,Mandatory,Software Engineering,VERDADERO,
 Kubernetes (Openshif),Mandatory,Software Engineering,VERDADERO,
 OutSystems v11.6,Mandatory,Software Engineering,VERDADERO,
